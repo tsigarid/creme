@@ -8,3 +8,7 @@ Comparison of Reference Exoplanet Models of Earth
 </h1>
 
 This is the home page of CREME, a planetary climate model intercomparison of preindustrial Earth. 
+
+[Description of simulations](simulations.md)
+
+[Documentation of models](models.md)
