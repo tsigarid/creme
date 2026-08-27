@@ -1,6 +1,6 @@
 # Simulations
 
-Below is a detailed description of the requested configuration of all simulations as extracted from the protocol paper. The purpose of this page is to have everything available in one page, and enriched with answers from potential questions as each model is being set up. Modelers are requested to explicitly document what they have done in the models page, even if this repeats information from here. When Earth is mentioned, it means conditions as close as possible to preindustrial, defined as the year 1850. 
+Below is a detailed description of the requested configuration of all simulations as extracted from the protocol paper. The purpose of this page is to have everything available in one page, and enriched with answers from potential questions as each model is being set up. Modelers are requested to explicitly document what they have done in the [models page](models.md), even if this repeats information from here. When Earth is mentioned, it means conditions as close as possible to preindustrial, defined as the year 1850. The duration of the spinup will be model-dependent and should be documented, and the equilibrated simulation(s) should be 150 years, unless the 4xCO2 simulation comes to a complete equilibrium earlier. 
 
 ## Benchmark (BM)
 
@@ -19,19 +19,13 @@ This is the entry ticket to CREME, and need to be performed by all models.
 
 ## Preindustrial (PI)
 
-Same as benchmark, with the following changes:
+Only models that can meet these requirements should perform this. The configuration is the same as in benchmark, with the following changes:
 
-* Ocean: as in benchmark. 
-* Bathymetry: as in benchmark. 
-* Sea ice: as in benchmark.
-* Topography: as in benchmark.
 * Vegetation: Earth.
 * Land ice: Earth.
-* Atmosphere: as in benchmark.
 * Long-lived GHGs: CO<sub>2</sub> as in benchmark, CH<sub>4</sub> 808 ppbv, N<sub>2</sub>O 273 ppbv, CFCs as in benchmark.
 * Water vapor: as in benchmark.
-* Ozone and aerosols: as in benchmark.
 
 ## 4xCO<sub>2</sub> (4xCO2)
 
-Everything the same as in benchmark, with the CO<sub>2</sub> concentration increasing abruptly to 4x that of the benchmark (to 1136 ppmv) after the end of spinup. 
+Mandatory simulation for all models. The configuration is the same as in benchmark, with only one change: the CO<sub>2</sub> concentration is 4x that of the benchmark (to 1136 ppmv), and the simulation should be an exact continuation of the model state at the end of the spinup. 
