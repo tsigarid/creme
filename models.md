@@ -2,22 +2,22 @@
 
 This page describes how each model is set up to perform the different [simulations](simulations.md).
 
-1. Atmos
+## Atmos
 
-2. BIG-MITgcm
+## BIG-MITgcm
 
-3. ESTM
+## ESTM
 
-4. ExoCAM
+## ExoCAM
 
-5. ExoPlaSim
+## ExoPlaSim
 
-6. Generic PCM
+## Generic PCM
 
-7. Isca
+## Isca
 
-8. PlaSim
+## PlaSim
 
-9. ROCKE-3D
+## ROCKE-3D
 
-10. UM
+## UM
