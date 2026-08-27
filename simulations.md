@@ -23,7 +23,7 @@ Only models that can meet these requirements should perform this. The configurat
 
 * Vegetation: Earth.
 * Land ice: Earth.
-* Long-lived GHGs: CO<sub>2</sub> as in benchmark, CH<sub>4</sub> 808 ppbv, N<sub>2</sub>O 273 ppbv, CFCs as in benchmark.
+* Long-lived GHGs: Earth; CO<sub>2</sub> as in benchmark (284 ppmv), CH<sub>4</sub> 808 ppbv, N<sub>2</sub>O 273 ppbv, CFCs as in benchmark (zero).
 * Water vapor: as in benchmark.
 
 ## 4xCO<sub>2</sub> (4xCO2)
